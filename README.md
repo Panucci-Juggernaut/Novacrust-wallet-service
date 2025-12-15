@@ -15,7 +15,7 @@ A simple wallet service built with NestJS that supports wallet creation, funding
 ## Setup Instructions
 ```bash
 git clone https://github.com/Panucci-Juggernaut/Novacrust-wallet-service
-cd wallet-service
+cd Novacrust-wallet-service
 npm install
 npm run start:dev
 ```
